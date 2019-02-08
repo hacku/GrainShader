@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{84D97B32-5EE5-7BCC-7CF8-EBC801934B25}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainLightDataNode.cs">
+    <Files>
+      <File FileName="Assets/MainLightDataNode.cs" Line="1" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
